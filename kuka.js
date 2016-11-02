@@ -11,4 +11,3 @@ setTimeout(appear, 3000);
 close.onclick = function() {
 	modal.style.display = "none";
 }
-
